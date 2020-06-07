@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="14793" started-at="2020-06-06T13:56:56Z" finished-at="2020-06-06T13:57:11Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="14793" started-at="2020-06-06T13:56:56Z" finished-at="2020-06-06T13:57:11Z">
+      <class name="First.Project.JavaCheck">
+        <test-method status="PASS" signature="javacheck()[pri:0, instance:First.Project.JavaCheck@2096442d]" name="javacheck" duration-ms="1" started-at="2020-06-06T19:27:11Z" finished-at="2020-06-06T19:27:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- javacheck -->
+      </class> <!-- First.Project.JavaCheck -->
+      <class name="First.Project.SeleniumCheck">
+        <test-method status="PASS" signature="initialisedriver()[pri:0, instance:First.Project.SeleniumCheck@735b478]" name="initialisedriver" duration-ms="11891" started-at="2020-06-06T19:26:56Z" finished-at="2020-06-06T19:27:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialisedriver -->
+      </class> <!-- First.Project.SeleniumCheck -->
+      <class name="First.Project.APICheck">
+        <test-method status="PASS" signature="checkAPI()[pri:0, instance:First.Project.APICheck@2c9f9fb0]" name="checkAPI" duration-ms="2855" started-at="2020-06-06T19:27:08Z" finished-at="2020-06-06T19:27:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkAPI -->
+      </class> <!-- First.Project.APICheck -->
+      <class name="First.Project.TestNG_Check">
+        <test-method status="PASS" signature="testmethod()[pri:0, instance:First.Project.TestNG_Check@3551a94]" name="testmethod" duration-ms="20" started-at="2020-06-06T19:26:56Z" finished-at="2020-06-06T19:26:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testmethod -->
+      </class> <!-- First.Project.TestNG_Check -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
